@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>https://amtstaffing.com/</loc>
+  <lastmod>2023-04-14T14:40:26+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://amtstaffing.com/index.html</loc>
+  <lastmod>2023-04-14T14:40:26+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://amtstaffing.com/about-us.html</loc>
+  <lastmod>2023-04-12T11:33:58+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://amtstaffing.com/client.html</loc>
+  <lastmod>2023-04-12T11:33:59+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://amtstaffing.com/team.html</loc>
+  <lastmod>2023-04-12T11:33:59+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://amtstaffing.com/applicant.html</loc>
+  <lastmod>2023-04-13T14:52:55+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://amtstaffing.com/findajob.html</loc>
+  <lastmod>2023-04-12T11:33:59+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://amtstaffing.com/resources.html</loc>
+  <lastmod>2023-04-12T11:33:59+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://amtstaffing.com/event.html</loc>
+  <lastmod>2023-04-14T14:45:35+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://amtstaffing.com/contact-us.html</loc>
+  <lastmod>2023-04-14T15:23:45+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://amtstaffing.com/PaymentPortal.html</loc>
+  <lastmod>2023-04-12T11:33:59+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://amtstaffing.com/uploadyourresume.html</loc>
+  <lastmod>2023-04-18T16:39:33+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://amtstaffing.com/builtyourresume.html</loc>
+  <lastmod>2023-04-18T19:46:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://amtstaffing.com/Admin/signIn.html</loc>
+  <lastmod>2023-04-12T11:33:59+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+
+
+</urlset>
